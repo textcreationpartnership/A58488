@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to lovers: or, Certain rules of behaviour shewing them how to demean themselves, so as not to miscarry in the grand affair of love. Wherein also the pretty tricks, odd humours, and fantastick carriage of some paramours, together with several pleasant passages relating to amours, and courtship, are observ'd and describ'd. By W. R. Gent.</title>
+            <author>W. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58488</idno>
+            <idno type="STC">Wing R93</idno>
+            <idno type="STC">ESTC R219657</idno>
+            <idno type="EEBO-CITATION">99831111</idno>
+            <idno type="PROQUEST">99831111</idno>
+            <idno type="VID">35573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35573)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2039:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to lovers: or, Certain rules of behaviour shewing them how to demean themselves, so as not to miscarry in the grand affair of love. Wherein also the pretty tricks, odd humours, and fantastick carriage of some paramours, together with several pleasant passages relating to amours, and courtship, are observ'd and describ'd. By W. R. Gent.</title>
+                  <author>W. R.</author>
+               </titleStmt>
+               <extent>[6], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Benjamin Shirley, at his shop under St. Dunstan's Dial,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: Advice to lovers: or, The art of love.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35573:1" rendition="simple:additions"/>
+            <p>ADVICE TO LOVERS: OR, Certain RULES of BEHAVIOUR, Shewing them how to Demean themſelves, ſo as not to Miſcarry in the Grand Affair of <hi>Love.</hi>
+            </p>
+            <p>Wherein alſo The Pretty <hi>Tricks,</hi> odd <hi>Humours,</hi> and Fantaſtick <hi>Carriage</hi> of ſome <hi>Paramours,</hi> Together with ſeveral Pleaſant <hi>Paſſages</hi> relating to <hi>Amours,</hi> and <hi>Courtſhip,</hi> are Obſerv'd and Deſcrib'd.</p>
+            <p>By <hi>W. R.</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Shirley,</hi> at his Shop under St. <hi>Dunſtan</hi>'s Dial. 1680.</p>
+            <pb facs="tcp:35573:2" rendition="simple:additions"/>
+            <pb facs="tcp:35573:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35573:3" rendition="simple:additions"/>
+            <pb facs="tcp:35573:3"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>A Tract,</hi> though never ſo ſmall, with<g ref="char:EOLhyphen"/>out a <hi>Preface,</hi> the <hi>Bookſeller</hi> ſays, looks like a <hi>Play</hi> without a <hi>Pro<g ref="char:EOLhyphen"/>logue:</hi> The Similitude may paſs; for gene<g ref="char:EOLhyphen"/>rally, One's as much to the Deſign and Pur<g ref="char:EOLhyphen"/>poſe of the Work, as the Other. Rather than want this, he'l ſcribble an impertinent one himſelf; ſo that whatſoever the <hi>Houſe</hi> is, there must needs be a <hi>Porch</hi> to it, thô of the <hi>Tuſcan</hi> Order. He's as ſolicitous for a <hi>Preface,</hi> as he's diligent in ſcraping to an Author, whoſe happy Labours have been bleſt with two Impreſſions; or thanking a Gownman for the <hi>Sermon</hi> he never heard.
+<pb facs="tcp:35573:4"/>But to leave off Satyr and his petty under<g ref="char:EOLhyphen"/>deſigns, let's fall to the Buſineſs of Amour. Which has often made mighty <hi>Monarchs</hi> ſtoop to its Empire, made grand Conquerors, Stateſmen, and the Religious confeſs its Power. Love's force excells that of Fa<g ref="char:EOLhyphen"/>mine, breaks thorow ſacred Cloyſters, and prae<g ref="char:EOLhyphen"/>cipitates a Pious <hi>Ignatian</hi> into Inceſt. It be<g ref="char:EOLhyphen"/>fools the Philoſopher, and draws in the Man that was reſolv'd never to game: Nooſes the moſt of Men into the Curſe of Noiſe, Non<g ref="char:EOLhyphen"/>ſence, Penury, Horns and Diſtraction. Makes <hi>Mankind</hi> adore Shadows and the Varniſh, that laſts but a few Years, to doat on Pride, Folly and Impertinence. His <hi>Holineſs</hi> has acknowleg'd its Omnipotence, having forc't him to bequeath his Keys to a <hi>Donna Olym<g ref="char:EOLhyphen"/>pia,</hi> who infallibly govern'd Catholick Na<g ref="char:EOLhyphen"/>tions, inſtructed erring Cardinals, receiv'd with more than <hi>Machiavillian</hi> Policy all Embaſſies, and diſtaft it over a great part of
+<pb facs="tcp:35573:4"/>
+               <hi>Europe.</hi> Love made-the Cardinals play at Leap-Frog, and <hi>Caeſar Borgia</hi> (that bleſſed Son of Infallibility) expreſs his Affection to a Biſhop in his <hi>Pontificalibus</hi> at the <hi>Altar.</hi> Made <hi>Nero</hi> believe a Tranſmutation of Sexes, and the nimble Taylor pine away for the want of a Queen <hi>Beſs.</hi> 'Tis no Fiction of the Poets, that <hi>Cupid</hi> wanted Eys: For Lovers are the blindeſt Creatures in Nature. For what elſe makes a Lord humble himſelf to Cyndars and Oysters; Great <hi>She's</hi> ad<g ref="char:EOLhyphen"/>mire the Architecture of a Brawny Coach<g ref="char:EOLhyphen"/>man, and the Countrey-Knight leave the chast Embraces of his Spouſe, for the poor allurements of a tatling, leering Chamber-Maid. Love or Lust, for Philoſophers make no great Distinction between them, hurries <hi>Academics</hi> into the Arms of Bed<g ref="char:EOLhyphen"/>makers, and She-Tapſters; cauſes Phyſicians to miſtake the Seat of the Pulſe, and <hi>Joan</hi> to be ſtartled at the pleaſant Strangeneſs
+<pb facs="tcp:35573:5"/>of Carnal Application. To regulate theſe kind of Enormities, the following Sheets are deſign'd, which upon Experiment have been found to be infinitely ſucceſsful, and I can aſſure you, That the enſuing <hi>Recipe's,</hi> taken according to the Author's Directions, have handſomly cur'd, what all the <hi>Herbs</hi> about Town could never yet effect. They lead you handſomly to Enjoyment, and make you hap<g ref="char:EOLhyphen"/>py without ſighs and looking pale and ſilly. I keep you from your <hi>Remedies,</hi> and <hi>Lovers</hi> I am ſure are hasty Creatures, and would fain be at the <hi>Buſineſs.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:35573:5"/>
+            <head>ADVICE to LOVERS: OR, <hi rend="blackletterType">The Art of Love.</hi>
+            </head>
+            <p>LOVE is ſo Univerſal a Monarch, and his Catholick Majeſty hath ſo Large an Empire throughout the World, that there are ſcarce any but are ſubject to his Do<g ref="char:EOLhyphen"/>minion, and have felt the Effects of his Tyran<g ref="char:EOLhyphen"/>nick Power; ſo that not to be wounded by his Dart, fetter'd in his Chains, nor melted in his Flames, is to Live a Wonder: But yet the Re<g ref="char:EOLhyphen"/>ſiſters of his Charms are not ſo Prodigious, as the Yielders to them are Miſerable and Unhappy; neither do we ſtand ſo much aſtoniſht and amaz'd at the Former, as Pity, and Commiſerate the con<g ref="char:EOLhyphen"/>dition of the Latter; For to be liſted a Souldier
+<pb n="2" facs="tcp:35573:6"/>under <hi>Cupid</hi>'s Banner, and not to underſtand his Martial Diſcipline, is to be expos'd to the greateſt Dangers; whereas a Prudent Deportment in the Camp of <hi>Venus,</hi> may ſecure from Perils, and crown our Paſſion with much Happineſs: For either through the Wiles and Stratagems of the ſubtile Lover, or the Simplicity and Innocence of the credulous Miſtreſs; either through the cloſe Siege of the ſtorming Man, or the too eaſie ſurrender of the yeilding Woman, or through other miſ<g ref="char:EOLhyphen"/>carriages of both Parties, it moſtly comes to paſs, that we hear of nothing but Infelicities in the Affairs of Love, of Improſperous Addreſſes; Neg<g ref="char:EOLhyphen"/>lects, and Slights; with ſhipwrack't Fames, and Reputation. Whereas a Prudent Behaviour in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll circumſtances that attend Amours, and a diſcreet Management of that Paſſion in all its Intrigues, will prevent Miſchiefs, and yield thoſe Pleaſures, that are the perpetual Concomitants of ſuch Amo<g ref="char:EOLhyphen"/>rous Entercourſes.</p>
+            <p>Now the Deſign of theſe few Lines is to Direct thoſe th<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ba<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k't for Love, that they may not ſplit upon thoſe Shelves, but may have a Proſperous Voyage to the <hi>Cyprian</hi> Iſland, and pay their Adorations ſucceſsfully to the Shrine of the Goddeſs <hi>Venus</hi> — In the proſecution of which
+<pb n="3" facs="tcp:35573:6"/>Diſcourſe, I ſhall make mine Addreſs, Firſt, To the Female Votaries of the Blind god; And then Secondly, to the Maſculine Adorers of the ſame Deity.</p>
+            <div n="1" type="part">
+               <head>The Firſt PART.</head>
+               <head type="sub">SECT. I. <hi>Of Ladies Behaviour in the Affairs of Love.</hi>
+               </head>
+               <div n="1" type="chapter">
+                  <p>I Hope that Bleſſed Sex will not be Diſoblig'd at my Sentiments, if I preſume to tell them, That I am apt to think, that they want Precepts concerning the <hi>Art of Love;</hi> few of them being well inſtructed in the Intricacies of that Myſte<g ref="char:EOLhyphen"/>rious Paſſion; For generally their Beauty is ſo Severe, and their Charms ſo Barbarous, that they for the moſt part make thoſe Perſons the Objects of their Rage and Cruelty, who make them the Idols of their Adorations; and Deſpiſe them moſt, who moſt faithfully Honour them; ſtriking them Proſtrate, by a Darted Frown, who volun<g ref="char:EOLhyphen"/>tarily kneel, as Religious Worſhippers of their
+<pb n="4" facs="tcp:35573:7"/>Admir'd Deity's; whoſe Vertues and Integrity deſerve kinder Returns, and may challenge the Gratitude of a more Noble Reward: But if not ſo coy and ſhy, then they baſely yield to the ſloven<g ref="char:EOLhyphen"/>ly Importunities of ſtupid Idiots, who are fitter to be entertain'd with the circle of an Halter, than careſs'd with the clip of a kind Embrace, who ra<g ref="char:EOLhyphen"/>ther deſerve to imprint a ſmack on the Rear be<g ref="char:EOLhyphen"/>hind, than ſeal a Kiſs on the Cheeks before.</p>
+                  <p>Now to avoid theſe and many other Errours, it may not ſeem Impertinent to lay down ſome Rules to Demean themſelves by, during the time they are Miſtreſſes, and the Objects of Love, and Courtſhip; as (1). How they ſhould anſwer, and ſtand affected to a ſincere Paramour. (2.) How to Counter-work the Wiles and Stratagems of meer Pretenders. To (3) ſhew, whether they ſhould Diſſemble the whole Matter, or in ſome fort acknowledge it; or (4.) Whether altogether avoid and ſhun Addreſſes.</p>
+               </div>
+               <div n="2" type="chapter">
+                  <head>II.</head>
+                  <p>Now the Firſt thing a Lady is to be taught, who is beſieg'd by Lovers, is to know a true Ser<g ref="char:EOLhyphen"/>vant from the formal Diſguizes, or Counterfeit
+<pb n="5" facs="tcp:35573:7"/>Formalities of Hypocritical Pretenders; And in<g ref="char:EOLhyphen"/>deed to give a true Characteriſtick Note, nay, probable Conjectures of a feigned Kindneſs; and to diſtinguiſh it from a real Affection, is a thing not very Feaſible; For ſo great is the Subtlety and Craft of Diſſembling Woers, that they perſonate Grief, and (with Crocodile-Tears) act a Sorrow, when they are big with Jeſt, and Pregnant with Scoffs and Laughter. How gloomy their Aſpect and full of clouds! how Pale their Complexion! how Mournful their Voice, interrupted with ſighs, and repeated Groans! How will theſe officious Ghoſts (like gaſtly Apparitions) watch her ſteps and obſerve her motion; and in the Church, and Theater, nay at every corner, at once both infeſt and affright her with the horror of their Preſence? How will they Dun for Love by importunate ſtyle of Courting Letters! and Wheedle out a Kindneſs by the winning and perſuaſive Rhetoric of obliging Preſent! What Paſſionate Whinings! and ſilent Dialogues weav'd by the Amorous Entercourſe of Mutual Glances! How will they dart, and convey their Sentiments by an expreſ<g ref="char:EOLhyphen"/>ſive Twinckle, and diſcover their Thoughts by the ſilent ſpeech of a Languiſhing Eye! What ſhall I ſay of the pompous Feſtivity of ſplendid
+<pb n="6" facs="tcp:35573:8"/>Treatments, and the Diverting Magnificence of Maſquerades; All which are ſolemn Inſtitutions Devoted to the Honour of their Admir'd Lady: whoſe Slumbers in the Night are pleaſantly ſof<g ref="char:EOLhyphen"/>ten'd with charms of Muſick; or her Repoſe di<g ref="char:EOLhyphen"/>ſturb'd with the ruder Serenade of Ungrateful Sighs. What Inſinuations into the Favour of her chief Attendants, that they may corrupt, and bribe them into a cloſe confederacy? who muſt occa<g ref="char:EOLhyphen"/>ſionally diſcover how cruelly they are ſcorch't in the inſupportable Flames, and Tormented in the <hi>Tophet</hi> of Burning Love; how that they value neither Life, nor Fortune, but are ready to offer up both as a Sacrifice for the Favour and Mercy but of one Smile; and that they deſign nothing but what is Honourable and Vertuous, the utmoſt of whoſe Ambition is to converſe with her; whoſe Bleſſed Company is almoſt the only Heaven they wiſh for or deſire; the Fruition of whoſe Pre<g ref="char:EOLhyphen"/>ſence but one moment, almoſt equals the Extaſies and the Eternal Tranſports of the Beatifick Vi<g ref="char:EOLhyphen"/>ſion. If ſhe willingly Liſtens to ſuch Diſcourſe as this, and the Language ſeems not a little plea<g ref="char:EOLhyphen"/>ſing, then there is no Difficulty, but what is alrea<g ref="char:EOLhyphen"/>dy conquer'd, then Falſe Keys and Opiates and Ladders of Ropes are immediately produc't; all
+<pb n="7" facs="tcp:35573:8"/>things are repreſented Facile and Eaſie, and appear with ſo good a Face, and Aſpect, that to conſum<g ref="char:EOLhyphen"/>mate all, there is nothing wanting but her bare Conſent. Which if ſhe Denies, and is reſolv'd to ſtand out againſt the Siege, then they more vigo<g ref="char:EOLhyphen"/>rouſly attaque her, reinforce their perſuaſions, and raiſe ſuch Importunate Batteries, as will force, and compel that Inexorable Fort of her ſelf to ſur<g ref="char:EOLhyphen"/>render. Some, when they have Deſpair'd of Victory, have turn'd the ſweetneſs of their ſoft Courtſhip, into the harſhneſs and bitterneſs of threatning Language, and have pointed their Pa<g ref="char:EOLhyphen"/>negyricks with the ſting of Satyrs. Others charm them with the Magick of Spells, and Philters, and by an entangling Potion, have depriv'd them of that Liberty that Nature gave them.</p>
+                  <p>Theſe are the ſubtle Artifices that Suitors make uſe of to circumvent their Miſtreſſes: And how can thoſe Innocent Profeſſors of Honeſty and Sim<g ref="char:EOLhyphen"/>plicity a void ſo many Snares in Ambuſcado for them? And therefore what wonder if an Harm<g ref="char:EOLhyphen"/>leſs Virgin be entrap'd by <hi>Cupid,</hi> when ſhe per<g ref="char:EOLhyphen"/>ceives her ſelf to have been ſo long ador'd by ſo Paſſionate a Young Gallant, who ſcruples at no Dangers to purchaſe her Favour?</p>
+               </div>
+               <div n="3" type="chapter">
+                  <pb n="8" facs="tcp:35573:9"/>
+                  <head>III.</head>
+                  <p>But that ſhe may not miſcarry in her Amours, nor become a Prey to the moſt ſubtile Paſſion; Let her be ſure to obſerve this General Rule, <hi>viz.</hi>
+                  </p>
+                  <q>Not too eaſily Believe (more than is meet) that ſhe is Belov'd.</q>
+                  <p>'Tis a common Infirmity of Women, preſently to apprehend all Diſcourſes of Love, though Dark and Myſterious; and even at firſt Daſh to acknow<g ref="char:EOLhyphen"/>ledg the moſt Extravagant Commendations: or if by chance they do diſown them, yet they do it ſo faintly and coldly, that ſeem rather to invite an Addreſs, than reject it; and to add Fuel to the Flame, rather than extinguiſh it.</p>
+                  <p>In all offices therefore of Civility, and Dialogues of Love, Let her beware of thinking, That any Man Admires her, becauſe he Diſcourſes volubly of the Paſſion; And if he be Immodeſt that talks with her, Let a Bluſh diſcover her Diſlike of his Language: If he ſpeaks Obſcurely, and Artifici<g ref="char:EOLhyphen"/>ally of Love, Then let her pretend not to under<g ref="char:EOLhyphen"/>ſtand him; and when ſhe hath turn'd his Expreſ<g ref="char:EOLhyphen"/>ſions to another Sence, by an Ingenuous Sagacity,
+<pb n="9" facs="tcp:35573:9"/>let her decline the ſubject: But if the Thing be ſo Plain, that ſhe cannot Diſſemble, let her Divert it with a Jeſt, and interpret all things candidly; for by this means will ſhe purchaſe the Reputa<g ref="char:EOLhyphen"/>tion of Wiſdom and Diſcretion, and will not ſo eaſily be impos'd upon and deceiv'd.</p>
+                  <p>But now ſuppoſe a Man be truly enamour'd, and ſhould be really Tormented with thoſe Affe<g ref="char:EOLhyphen"/>ctions, and be wounded with thoſe Darts, that are wont to perplex and ſtick in the Souls of Men, What? ſhall the Rhetorick of his Miſeries avail nothing? Will not Laſſes at all be mov'd with ſolemn Proteſtations, Sighs and Diſquietudes of an Anxious Breaſt, thoſe uſual Arguments of De<g ref="char:EOLhyphen"/>voted Affections? Muſt they thus add an Arti<g ref="char:EOLhyphen"/>ficial Cruelty to the Natural Barbarity and Un<g ref="char:EOLhyphen"/>kindneſs of their Sex? In anſwer to this, I muſt confeſs, 'tis hard to give rules in this Particular, in regard of Mens different Natures, and Diſpoſiti<g ref="char:EOLhyphen"/>ons; only let Young Ladies always remember, <hi>[That Men make greater Profeſsions of Love than Women.]</hi>
+                  </p>
+                  <p>But it further may be demanded, What? Muſt a Young Lady make no Returns of Kindneſs? Will not a ſpark glowing in the Breaſt of her Pa<g ref="char:EOLhyphen"/>ramour, kindle a Flame in her Boſom? Muſt
+<pb n="10" facs="tcp:35573:10"/>ſhe Eccho back no Sighs, and make no Reflection of <hi>Amorous Groans?</hi> When her Courtier advances, muſt ſhe then retreat? By doing thus, ſhe will wholly deprive her ſelf of that Homage, and Obſequiouſneſs, which Young Gallants are wont to pay to their Miſtreſſes. Muſt ſhe be ſo Inhu<g ref="char:EOLhyphen"/>mane as not to give the leaſt Countenance, and Satisfaction to her Importunate Suitor? What? Not one Cheering Look? Not one Amorous Glance of a ſheep's eye? No Gomfort and Re<g ref="char:EOLhyphen"/>freſhment from obliging Dimple? No Courteous Preſſure of Treading Toe? or Private Invitation of Myſtic Twitch?</p>
+                  <p>Now by way of Reply to this, Pſay, If ſhe ſmile on any, Let him enjoy that Sun-ſhine of her Face, to whom ſhe intends to reſign up her Dear Self, &amp; to Honour with the Eſpouſals of her whole Per<g ref="char:EOLhyphen"/>ſon; ſo that, if ſometimes ſhe recreates him with the Pleaſure of a Glance, or gratifies him with the Bleſſing of a dropt Glove, or careſs him with other looſely ſcatter'd Expreſſions of Kindneſs, we cen<g ref="char:EOLhyphen"/>ſure not her Civility; But if ſhe be Fleering and Gameſome; and too Prodigal of her private Treads and Twinckles; of her ſecret Squeezes and Twitches, and other Love-Tokens, when no Marriage Nooſe is e're intended; Her Petulant
+<pb n="11" facs="tcp:35573:10"/>Forwardneſs creates a ſuſpicion of Unlawful De<g ref="char:EOLhyphen"/>ſires, and conſequently eclipſes the Luſtre of her Fame.</p>
+                  <p>But however, let her be ſo Prudent in the Diſplays of her Civilities, and in giving ſigns of her Favour, as to take away even the leaſt glympſe of Diſhoneſt Hopes.</p>
+               </div>
+               <div n="4" type="chapter">
+                  <head>IV.</head>
+                  <p>Wherefore another Caution to be obſerv'd by theſe Objects of Courtſhip, is,
+<q>Not to have too great a Conceit of their Handſom<g ref="char:EOLhyphen"/>neſs.</q>
+                  </p>
+                  <p>'Tis an Infirmity to ſome of the Sex, to aſcribe too much unto it; who, becauſe they are Attended with Throngs of Admirers, and are honour'd with the Ceremonies of Bare-heads, and Bended-Knees, are reverenc'd with ſupple Coopees, and Congees, and pelted with the Addreſſes of Battering Epi<g ref="char:EOLhyphen"/>ſtles; they think theſe Foppiſh Obſervances to be the Effects of their Features, and undeniable Proofs of their Charming Faces; and therefore are Am<g ref="char:EOLhyphen"/>bitious of a whole Legion of Suiters; and by this means oftentimes take occaſion to hop over, and tranſgreſs the bounds of Modeſty, and degenerate into Impudence, which they Laſciviouſly expreſs
+<pb n="12" facs="tcp:35573:11"/>in their Looks, Words and Geſture; and fancy they are obſerv'd, and Lov'd for their Bonny Car<g ref="char:EOLhyphen"/>riage; But they are much deceiv'd: For if there be any Mouths that water at them, or any Bellies that wamble after them, the Inclination proceeds not ſo much from an honeſt opinion of them, or a vertuous Paſſion towards them, as from the Diſhoneſt hopes of Eaſineſs of Enjoying them.</p>
+                  <p>Let not a Miſtreſs be ſo Light and Vain, as to draw the eyes of all Men after her. But let her be ſo virtuous in her Converſation, ſo ſweet in her Actions, that every Beholder may be her Votary; and then all Filthy Deſires, and Smutty Flames will die and vaniſh. Whoſoever is Bleſs'd with the Love of ſuch a Perſon, let him ſit down ſatis<g ref="char:EOLhyphen"/>fy'd with the leaſt hint of her Favour; and value the happineſs but of one ſmile, above a Monopoly of all the Felicities of the whole World.</p>
+               </div>
+               <div n="5" type="chapter">
+                  <head>V.</head>
+                  <p>But perhaps it may be ſaid, That this Doctrine of Love is ſomewhat ſevere; in regard it pre<g ref="char:EOLhyphen"/>ſcribes ſuch Leſſons of Coyneſs, which ſo confines the Speech, Looks, Geſtures of Young Ladies, as that it not only takes away all Hope from their Gallants, but even drives them to the very Brink of Deſpair: Men deſire not thoſe things, that are
+<pb n="13" facs="tcp:35573:11"/>impoſſible to be obtain'd: And though ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>males puff't up with the conceit of their imagina<g ref="char:EOLhyphen"/>ry Beauty, in the firſt Encounters of Love, are Satyrical in their Expreſſions, yet a little Familiar Converſe with the ſweets of that Paſſion, will ſof<g ref="char:EOLhyphen"/>ten their Rigours, and diſſolve their Expreſſions into Courteous Periods. But if Ladies be ſo Mo<g ref="char:EOLhyphen"/>roſe, and Gloomy, as not to clear up ſometimes into a pleaſant Gayety, either in Speech or Ge<g ref="char:EOLhyphen"/>ſture; they will not be ador'd by ſo many Vota<g ref="char:EOLhyphen"/>ries; but will Diſcourage the Religion, and Cool the Fervency of their Devour Admirers.</p>
+                  <p>Now in anſwer to this, I would not have Mi<g ref="char:EOLhyphen"/>ſtreſſes take away all Hope: But only fruſtrate Diſhoneſt Expectations; which a true Gentleman will never cheriſh: For if Beauty, and Modeſty; Candour and Piety, and a numerous cluſter of other Perfections, were the Incentives of his Paſ<g ref="char:EOLhyphen"/>ſion, and the only Magnetiſms that drew him af<g ref="char:EOLhyphen"/>ter Her, then it muſt needs follow, that his Affe<g ref="char:EOLhyphen"/>ctions are Vertuous. And if an honourable Ge<g ref="char:EOLhyphen"/>nealogy, the Reputation of Valour, Learning and Civility, and a Graceful Mein in every Action attended with the Advantage of other Accom<g ref="char:EOLhyphen"/>pliſhments, are the Things that purchas'd the Ladies Favour, then certainly, the end of this
+<pb n="14" facs="tcp:35573:12"/>Love muſt be of the ſame Nature and Complexi<g ref="char:EOLhyphen"/>on; that is, moſt worthy, like the Means that firſt caus'd it.</p>
+               </div>
+               <div n="6" type="chapter">
+                  <head>VI.</head>
+                  <p>Mens Humours differ according to the variety of Female Tempers: Some, when they obſerve a comely ſeriouſneſs, either in a Ladies Motion, or Converſation, have ſuch a veneration for her Phlegm, as that they dare not offer up an obſe<g ref="char:EOLhyphen"/>quious Amour, nor preſume to diſcompoſe the Gravity of her Bum, with the Merry Touch of an extended Hop-pole; wherefore wheeling a<g ref="char:EOLhyphen"/>bout to the Sanguine Laſſes, they fall down Ado<g ref="char:EOLhyphen"/>rers of their Inviting Briskneſs; whoſe Aiery Fro<g ref="char:EOLhyphen"/>licks enliven'd with the Charms of winning Lan<g ref="char:EOLhyphen"/>guage, do Tempt their Affections, and ſwell their Hopes, even to ſtrong Expectations of the ſweets of Fruition.</p>
+                  <p>Others, to avoid the Snares of Tricks, and Fallacies, do affect thoſe Ladies moſt, who in the very glance of the eye, in every word and action, are ſo Tranſparent, as that their moſt inward Conceptions are Plain and Legible.</p>
+                  <p>Others fancy thoſe moſt excellent, whom they find moſt difficult, and glory in the ſurrender of that Fort, which to others hath been Impregnable,
+<pb n="15" facs="tcp:35573:12"/>and love to hover in Addreſſes, and Flutter in Courtſhip about Reſervedneſs and Auſterity; Thinking it Honourable to quell a Rebellious, and melt an obdurate Soul with the Irreſiſtable Power and Heat of Love. Theſe Perſons too much confiding in their own Wiſdom, and ſuppo<g ref="char:EOLhyphen"/>ſing they cannot be deceiv'd, or circumvented, do oftentimes Doat on thoſe Girles, who by their ſubtil Wit, conceal a thouſand ſnares under an in<g ref="char:EOLhyphen"/>different Aſpect: Nay ſometimes have a Kind<g ref="char:EOLhyphen"/>neſs, and nivel after thoſe, who affect, as a Grace, a ſcornful Look, Few words, and a little Smile, and that on purpoſe meerly, to ſeem to ſlight an Admirer, and deſpiſe the obſequionſneſs of an Officious Servant.</p>
+                  <p>Laſtly, there are others, ſo Curious, who think none worthy of their Love, unleſs compos'd of Beauty and Eloquence; Civility and Prudence; and have in them a general Muſter, or whole Randezvouz of all Perfections; unleſs ſhe be the Reſult of all thoſe Elegancies the Painter bor<g ref="char:EOLhyphen"/>row'd to conſummate the Pourtraicture of his moſt Abſolute Beauty.</p>
+                  <p>Though a Young Lady be not admir'd by ſuch Gallants, as make their Addreſſes for ſome Diſho<g ref="char:EOLhyphen"/>neſt Deſign, yet ſhe will have Servants to celebrate her Worth, and to adore her Vertue.</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <pb n="16" facs="tcp:35573:13"/>
+               <head>The Second PART.</head>
+               <head type="sub">SECT. II. <hi>How Young Gentlemen ſhould behave themſelves in the Buſineſs of Love, ſo as to purchaſe the Favour and Affections of their Miſtreſses.</hi>
+               </head>
+               <div n="2" type="chapter">
+                  <p>WHoſoever undertakes the Task of Love, and is reſolv'd manfully to fight un<g ref="char:EOLhyphen"/>der <hi>Cupid</hi>'s Banner, ſo as to return Triumphant with the ſpoils of Hearts and Souls of Pillag'd Virgins, muſt firſt ſtudy to pleaſe, and to frame, and accommodate himſelf to the Inclinations and Affections of them, and ſo comply with the Beck of his Miſtreſs, as that all his Senſes muſt be Vaſ<g ref="char:EOLhyphen"/>ſals Devoted to her Service; Nay, his very Soul muſt be her Slave and Lacquey: He muſt not be ſo conſtant to himſelf, but, if occaſion ſhall ſerve, muſt change himſelf into a thouſand ſhapes.</p>
+                  <p>Theſe are the duties and offices of <hi>Lovers;</hi> And indeed, what greater Happineſs can there be, than for two Souls thus to be govern'd by one Will?</p>
+                  <pb n="17" facs="tcp:35573:13"/>
+                  <p>'Tis certain, Suiters adapt their ſtudies, thoughts and endeavours to the Fancies and Humours of their Miſtreſſes; But if their officious obſequiouſ<g ref="char:EOLhyphen"/>neſs is not viſible enough, They muſt make them ſo publick and manifeſt, that the Lady cannot but underſtand them, cannot pretend to be ignorant of them; but yet it muſt be done ſo modeſtly, that nothing may be diminiſh'd of her Eſteem or Ve<g ref="char:EOLhyphen"/>neration. My meaning is, If the <hi>Lover</hi> be ſo ſhee<g ref="char:EOLhyphen"/>piſh and Baſhful, that he is aſham'd to ſpeak, yet let him not fear to write; And, if he be wiſe, be<g ref="char:EOLhyphen"/>fore he tranſact any ſuch thing with a Woman, let him be ſure that he do not offend in it. All Women deſire to be ask't and intreated, though they reſolve to deny the Favour. Now in trying whether he ſhall have a repulſe or not, let him do it either by Word or Letter ſo modeſtly and wa<g ref="char:EOLhyphen"/>rily, and withal ſo doubtfully, that ſhe may have room and ſcope (if ſhe pleaſe) to pretend and diſ<g ref="char:EOLhyphen"/>ſemble that ſhe underſtands nothing of <hi>Love</hi> in the caſe; and ſo by this means, if there be any danger, he may excuſe himſelf, and ſay he did it for ſome other end; namely for that enjoyment of that Communion and Familiarity, which ought to be cheriſh't amongſt Friends; But he muſt not affirm it ſo religiouſly, but that afterward he may deny it,
+<pb n="18" facs="tcp:35573:14"/>if, what he does be receiv'd a Pledg, and Teſtimo<g ref="char:EOLhyphen"/>ny of his Kindneſs.</p>
+               </div>
+               <div n="2" type="chapter">
+                  <head>II.</head>
+                  <p>For thoſe that are too Raſh, and Bold, at the firſt Adventure do uſually, by their abrupt Blundering into the ſacred preſence of their Miſtreſſes, make their Prayers Ineffectual, in regard their Impu<g ref="char:EOLhyphen"/>dence very much diſobliges, who pretend Love without the Ceremony and Preface of their offici<g ref="char:EOLhyphen"/>ous Civility.</p>
+                  <q>
+                     <hi>'Tis more Convenient therefore rather by Signs and Proofs, than by Words and Letters, to ſignifie their Paſsion.</hi>
+                  </q>
+                  <p>One Sigh attended with reſpect and awful Fear, is a more certain Token of Affection, than Curio<g ref="char:EOLhyphen"/>ſity of Eloquence in a Flood of Words. Beſides, the Eyes are the trueſt <hi>Nuncio's,</hi> which will faithfully perform an Embaſſy from the heart; For theſe will kindle a Flame in the Breaſt of her that is ſo much ador'd; For the viſive rays, being darted into her eyes, never reſt till they arrive to her heart, where mingling themſelves with the blood and ſpirit, do at length infect them, which being a little warm, and aſſimilated to the Agent, receive the impreſ<g ref="char:EOLhyphen"/>ſion of the arriv'd Image: And thus whilſt the ſparks of Beauty through the caſement of the Eys,
+<pb n="19" facs="tcp:35573:14"/>do mutually light upon each others hearts, the wiſp of <hi>Love</hi> begins to blaze, whoſe Veſtal Flames will never die, being nouriſh't by the Fewel of never-failing Hope.</p>
+                  <p>So that, we ſafely affirm, <hi>[That the Eyes oftentimes are the Authors and Diſpenſers of Love]</hi> eſpecially, if they retain a Natural, Majeſtick ſweetneſs; or a pleaſant Blackneſs; or a chearful caeruleouſneſs; or laſtly, have ſuch piercing glances, which dive, and enter into the very Receſſes of the Soul. The Eys (like expert Souldiers) lie in ambuſh; and if the compoſure of the other Parts be Uniform, and Decorous, they entice Spectators, and inveigle them at a diſtance; whom, as they nearer approach, they wound with their Darts, and faſcinate with their Charms; and that chiefly when they mutu<g ref="char:EOLhyphen"/>ally ſtare with Direct glances; For in that plea<g ref="char:EOLhyphen"/>ſant encounter (as diſtemper'd Opticks corrupt the ſound one) they mutually partake of each others Natures.</p>
+                  <p>And thus you ſee how by this way, a <hi>Lover</hi> may twinckle out his Inclinations and Deſires, and diſ<g ref="char:EOLhyphen"/>cover the Grumblings of his Gizzard to his Dear Lady. But now, if theſe Betrayers of <hi>Love</hi> are not artificially manag'd, they will be apt to blabb, by an untoward Goggle, the Diſorders and Per<g ref="char:EOLhyphen"/>turbations
+<pb n="20" facs="tcp:35573:15"/>of an enamour'd Soul, to thoſe from whom we would have them conceal'd; <hi>Cupid</hi> will be likely enough to peep out of theſe cryſtal win<g ref="char:EOLhyphen"/>dows: Let a <hi>Prudent Lover</hi> therefore (as time and place ſhall require) tye up his Looks, and not ſuf<g ref="char:EOLhyphen"/>fer them to ſtraggle and rove unſeaſonably: What though a Proſpect of her Beauties, be a Refreſh<g ref="char:EOLhyphen"/>ment and verdure to his Soul, and Sight, yet let him divert his Pigs-neys from the luxury of that Look, which may in the leaſt proclaim the Hanckerings of <hi>Love.</hi>
+                  </p>
+                  <p>But is it not more Prudent to do all things open<g ref="char:EOLhyphen"/>ly, and in the eys of the World? Is it not better to Bill in open view, and to Toy it in publick, where there is witneſſes of your Friskings, than to ſmack it in the dark, and to be jumbling in hugger-mug<g ref="char:EOLhyphen"/>ger behind the door? For the Freeneſs and Pub<g ref="char:EOLhyphen"/>lickneſs of theſe Actions, will take away the ſuſpi<g ref="char:EOLhyphen"/>cion of all <hi>Love,</hi> ſeeing 'tis not regarded whether they are ſeen or not; whereas a ſly Colt, that loves to <hi>Lecher</hi> it in a corner, will, give occaſion of Jea<g ref="char:EOLhyphen"/>louſie. Beſides, by denying nothing, but by pub<g ref="char:EOLhyphen"/>lick profeſſing of all, the <hi>Jolly Lover</hi> hath the Li<g ref="char:EOLhyphen"/>berty to Bow and Complement; to meet and chatt with her without the leaſt ſuſpicion; where<g ref="char:EOLhyphen"/>as theſe Privileges are deny'd to <hi>Privateers in Love.</hi>
+                  </p>
+                  <pb n="21" facs="tcp:35573:15"/>
+                  <p>It hath been obſerv'd, That where there hath not been glowing the leaſt ſpark of Love, there hath broken out the whole Element of that Paſ<g ref="char:EOLhyphen"/>ſion; which was only kindled by a bare Report. A common Bruit hath tickled ſo much the Fancy of ſome Women, that they have been ſmitten by Hear-ſay. Fame plays the part of an Amorous Courtier, whoſe Rhetorick is more prevalent than the melting Expreſſions of the moſt Paſſionate Gallant; and ſhe hath been more proſperous in wooing, and hath kindled more Love, than their Perſonal Addreſſes; ſo that Rumours are ſo far from cooling the Fervours and Heats of Love, as that they Fan the Embers, and blow them up into a great Combuſtion.</p>
+               </div>
+               <div n="3" type="chapter">
+                  <head>IV.</head>
+                  <p>But how many Gallants always keep the Love and Favour of their Miſtreſſes? Certainly, by the ſame means they firſt obtain'd it, namely, 1. By Pleaſing them. 2. By being Obſequious to them. And, 3. By offering no occaſion of offence.</p>
+                  <p>'Tis hard to adviſe in this caſe, in regard thoſe that are troubled with the Simples, and are not very Judicious, do fall into a thouſand Errours; which, although they ſeem Light, and Tri<g ref="char:EOLhyphen"/>vial perhaps to others, yet do much exaſperate
+<pb n="22" facs="tcp:35573:16"/>and vex the Women. Thoſe Men are moſt ob<g ref="char:EOLhyphen"/>noxious to them, who are poſſeſs'd with greater Ravings of Love, than others; who as often as they meet their Adored-She, do break out into ſuch Extremities of Grief and Sorrow as that they are always expreſſing it with the odd ſolemnities of wringed hands, and ſhaken Noddles; of wreath-Chops, and Antick Grimaces; who require ſuch ſtrange and difficult Things, that they are render'd Contemptible, and Odious, even by their clinging Importunity.</p>
+                  <p>Others, unjuſtly Jealous, are ſo ſevere againſt thoſe they ſuſpect, that they will not allow their Ladies ſo much as to ſpeak, and look or leer upon them: By which Madneſs and Folly they do not only incenſe the Women, but make them twitter after thoſe, whom before they minded not: That Fear that Firks, nay Torments a man's Soul, leſt his Miſtreſs ſhould twine about the Limbs, or min<g ref="char:EOLhyphen"/>gle with the Embraces of another Man; I ſay that Fear doth inſinuate that his Perſon is more Vertu<g ref="char:EOLhyphen"/>ous, and more Deſerving, than himſelf is: And the more he doth Detract from another, the leſs he's Believ'd, by his Miſtreſs, though he ſpeaks Truth; Nay, ſhe conceives a greater Opinion of his worth, and thinks within her ſelf, that the Gen<g ref="char:EOLhyphen"/>tleman's charms are the more Attractive</p>
+               </div>
+               <div n="4" type="chapter">
+                  <pb n="23" facs="tcp:35573:16"/>
+                  <head>V. <hi>Let our Suiter therefore have a care that he do not be<g ref="char:EOLhyphen"/>ſpatter and Diſparage his Rival.</hi>
+                  </head>
+                  <p>'Tis an old Proverb, <hi>If thine Enemy be in the water up to the middle, Lend him your hand to help him out; but if he ſtands up to the Chin, ſet your Foot on his Head to thrust him in.</hi> Some deal with their Rivals ſo; who pretend Friendſhip till they have an oppor<g ref="char:EOLhyphen"/>tunity miſchievouſly to prevent them. When they can handſomly Defeat them, then neither Calum<g ref="char:EOLhyphen"/>nies and Reproaches are ſpar'd, nor Subtlety and Art are omitted, whereby they may craftily De<g ref="char:EOLhyphen"/>ceive them. But I would not have our Gallant to deal in Stratagems, nor ſo degenerouſly to Tri<g ref="char:EOLhyphen"/>umph over his Defeated Competitor; If he would glory in the Fruſtration of his Counſels, and in the overthrow of his Deſigns, Let him endeavour to do it, by the offices of Love, and Atchievements of Valour; by Obſequious Inſinuations, and by worth and merits; by the contempt of thoſe Fol<g ref="char:EOLhyphen"/>lies, and Diſ-ingenuous Methods, which Impru<g ref="char:EOLhyphen"/>dent men fall into, and do frequently uſe.</p>
+                  <p>Some do Accoſt, both in Diſcourſe and Letter, in Rhetorical Flouriſhes; other Braggadochio's do nothing but Trumpet out their own worth,
+<pb n="24" facs="tcp:35573:17"/>and are always pratling their own Praiſes. A Third ſort does blabb that inconſiderately out, which oftentimes proves Prejudicial to them, as thoſe Ridiculous God-heads, who are always ſay<g ref="char:EOLhyphen"/>ing, <hi>[I could never find a Woman yet that Lov'd me;]</hi> whereas all the World knows, that they are ſcarce good enough for the mannerly Dogs to hold up their Legs againſt, and civilly to piſs upon. Many, to render their Rivals Odious, do uſually draw them in ſuch a character, <hi>viz. That Fellow is the happiest Fool in the World; For though he is not endow'd with the Charms of Beauty, nor with the Gravity of Pru<g ref="char:EOLhyphen"/>dence, nor Reſolutions of Valour, nor eurich'd or adorn'd with any other Excellency, yet all the Women in the Coun<g ref="char:EOLhyphen"/>trey ſtick up their Tails and gad after him; and are at Cuff and Kick for the Enjoyment of Him.</hi> Thus whilſt they ſpit their venom, and envy his good Fortune, and though he is in no wiſe taking, yet the Women ſuſpect ſome hidden Vertue to ly Dormant in him.</p>
+               </div>
+               <div n="5" type="chapter">
+                  <head>VI.</head>
+                  <p>
+                     <hi>But how may the Mysteries of Love be beſt conceal'd?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> By avoiding all Occaſions which may Diſcover them.</p>
+                  <p>The Firſt of which, is Affecting too great a Se<g ref="char:EOLhyphen"/>creſie, ſo that Men will not Truſt, confide in, or
+<pb n="25" facs="tcp:35573:17"/>give credit to any Body, and hereby think ſo cloſe<g ref="char:EOLhyphen"/>ly to lock up all things; wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reas 'tis the ready way for the diſcloſing of them.</p>
+                  <p>For ſeeing every Lover deſires to have the in<g ref="char:EOLhyphen"/>ward Sentiments of his Soul to be declar'd to his Miſtreſs, he is therefore upon neceſſity forc'd to make broader ſigns, than if he had committed the Buſineſs to a Faithful Friend; and thoſe Tokens that proceed from a Lover breed greater ſuſpici<g ref="char:EOLhyphen"/>ons, than thoſe that are carry'd by a Meſſenger; and becauſe 'tis natural, curiouſly to pry into others Buſineſs: whereſoever therefore is ſprung the leaſt Jealouſie, there will not be omitted the leaſt opportunity of Enquiry, which when once found out, you cannot imagin how pleaſant 'tis to divulge and blab it. But now theſe Inconveni<g ref="char:EOLhyphen"/>ences do not happen, when the Paſſion is commu<g ref="char:EOLhyphen"/>nicated to a True Friend, who can counſel, and aſſiſt, and would prevent thoſe Errours, which a Blind Lover would blunder upon, and can cover all things, and foreſee Futurities, which a Doating Paramour hath no Proſpect of, and can participate of his Affections either of Grief, or Pleaſure.</p>
+                  <p>Another Herald that proclaims Love, is <hi>Female Ambition</hi> joyn'd with <hi>Cruelty.</hi> For all Women do covet to be follow'd, and (as it were) to have
+<pb n="26" facs="tcp:35573:18"/>their Tayls tag'd with a long Train of Lovers; altho (like <hi>Cupid</hi>'s Martyrs) they are calcin'd into Aſhes by Amorous Heats, yet doth that Sex wiſh earneſtly their Reſurrection, that they might again exſpire in the midſt of Flames. And though Women love to have a Thump on the Breaſt with that Pleaſant Dart, yet do they inſult and Tri<g ref="char:EOLhyphen"/>umph over the Miſeries of their wretched Para<g ref="char:EOLhyphen"/>mours; They <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>either altogether revive their Drooping Souls with Dawning Hopes, nor whol<g ref="char:EOLhyphen"/>ly Damp their Spirits with Black Deſpair, but hold in ſuſpence, and poyſe their Paſſions and Deſires; which ſometimes they Diſcourage by the invectives of a Threat, and ſometimes invite with the Flatteries of a Reward, whoſe Behavi<g ref="char:EOLhyphen"/>our (ſinally) is ſo Tyrannical and ſevere, that one obliging Nod, and one Gracious Leer muſt be thought the ſweeteſt Morſel of Happineſs that was ever taſted.</p>
+                  <p>There are ſome Women, who, if they can wheedle Men into an Opinion <hi>[That they are Be<g ref="char:EOLhyphen"/>lov'd]</hi> will, by an unequal Diviſion of their Fa<g ref="char:EOLhyphen"/>vour, ſtir up ſuch Emulations in the Breaſts of their Servants, that they fhall to ſcuffling for the Title to an intire Inheritance of a Smile or Kind<g ref="char:EOLhyphen"/>neſs: When they have Lull'd them into that
+<pb n="27" facs="tcp:35573:18"/>Perſuaſion, then with their ambiguous Language do they ſhake their Hopes, and ſtagger their Be<g ref="char:EOLhyphen"/>lief, and wound them with the Pretences of Love to others; Hence follow Quarrels, Animoſities, and open Murder.</p>
+                  <p>There are others that think it not ſufficient to raiſe Tragedies among Rivals, but after the Pu<g ref="char:EOLhyphen"/>ling Lover hath us'd all the Arguments imagin<g ref="char:EOLhyphen"/>able of Love, Fidelity and Obſequiouſneſs; and after he hath been encourag'd by all the ſigns of Mutual Kindneſs, I ſay, after all this, other are ſome who will accuſe (without any reaſon) of In<g ref="char:EOLhyphen"/>differency, and coldneſs in the offices of Love, will invent new Jealouſies and Suſpicions, and there<g ref="char:EOLhyphen"/>upon are ready to kick them out of Doors; And then the Miſerable Creature is forc'd to begin afreſh with new ſigns, and as if now juſt entring upon his Slaviſh Servitude, he hath his daily Perambulations about the Streets; and if his Mi<g ref="char:EOLhyphen"/>ſtreſs chance to appear in publick, he <hi>Tantonies</hi> after her, whereſoe're ſhe Figs, and dare not ſhirk ſo much as one Glance, to beſtow or throw it any otherwayes. And now Behold his Freſh Tears, and New Face; his New Religion, and New Perjuries.</p>
+                  <p>Now all theſe Tragical Affections are as obvi<g ref="char:EOLhyphen"/>ous
+<pb n="28" facs="tcp:35573:19"/>as the Sun, and are more eaſily Diſcover'd by others, than by the Authors of them; and, when once taken notice of, are always the Objects of a thouſand Eyes.</p>
+                  <p>But now, when Women perceive a Calamitous Lover ſo terrify'd by their Tyranny, as that he begins to retreat, and is almoſt ready to bewray his Breeches, and to give up the Ghoſt for Fear, then they begin to careſs him with ſome Baits of Kindneſs, and endeavour to revive him with the Cordial of pretended Love, leſt he ſhould throw aſide his Deſires, and ſo they be Depliv'd of the officiouſneſs of an obſequious Servant.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:35573:19"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
